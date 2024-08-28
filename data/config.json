@@ -1,0 +1,12 @@
+{
+  "exchanges": {
+    "at": {"yf_extension": "VI",
+           "file_name": "vse.xlsx"},
+    "ch": {"yf_extenstion": "SW",
+           "file_name": "six.csv"},
+    "cz": {},
+    "de": {"yf_extension"},
+    "euronext": {},
+    "us": {}
+  }
+}
